@@ -183,9 +183,9 @@ This project is developed for educational purposes as part of the IBM Data Scien
 
 **Vaibhav Sonavane**
 
-Second-Year Computer Engineering Student
+Fourth-Year Computer Engineering Student
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/vaibhav19128.
 
 ---
 
